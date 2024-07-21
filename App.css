@@ -1,0 +1,21 @@
+/* src/App.css */
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #47182e50;;
+ 
+ 
+}
+
+
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: rgb(114, 19, 78); /* Adjust text color for better visibility */
+  text-shadow: 2px 2px 4px #dc9393; /* Optional: Add text shadow for better contrast */
+
+}

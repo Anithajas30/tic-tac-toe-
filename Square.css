@@ -1,0 +1,21 @@
+/* src/components/Square.css */
+.square {
+    background: #cec9d8;
+    border: 1px solid #161618;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 100px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 100px;
+    transition: background 0.3s;
+  }
+  
+  .square:hover {
+    background: #8d8181;
+  }
+  
